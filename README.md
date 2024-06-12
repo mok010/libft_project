@@ -48,7 +48,7 @@
  
 # Bonus
 
-For this part we implemented a struct defining the well-known linked lists
+아래는 연결리스트를 사용하는 함수라 아래의 구조와 같은 구조체를 정의하여 함수 구현을 진행하였다.
 
 ```
 typedef	struct	s_list
